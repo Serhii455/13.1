@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+     Creating library D:\НУ Львівська Політехніка\Алгоритмізація та програмування\Лабораторні\Лабораторна 13\Lab_13.1\Pr_13.1\x64\Debug\UnitTest1.lib and object D:\НУ Львівська Політехніка\Алгоритмізація та програмування\Лабораторні\Лабораторна 13\Lab_13.1\Pr_13.1\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "int __cdecl nsSum::sum(void)" (?sum@nsSum@@YAHXZ) referenced in function "public: void __cdecl UnitTest1::SumTest::TestSumFunction(void)" (?TestSumFunction@SumTest@UnitTest1@@QEAAXXZ)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x_p" (?x_p@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x_k" (?x_k@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::dx" (?dx@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::e" (?e@nsVar@@3NA)
+D:\НУ Львівська Політехніка\Алгоритмізація та програмування\Лабораторні\Лабораторна 13\Lab_13.1\Pr_13.1\x64\Debug\UnitTest1.dll : fatal error LNK1120: 5 unresolved externals
